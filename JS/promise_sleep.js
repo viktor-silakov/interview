@@ -10,5 +10,5 @@ function sleep(ms) {
 (async () => {
     console.time('test delay');
     await sleep(5000);
-    console.timeEnd('test delay');
+    console.timeEnd('test delay'); // expected about 5000ms
 })()
