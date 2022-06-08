@@ -4,7 +4,7 @@
  */
 
 function returnOdd(arr) {
-    return filtered_array;
+    // put your code here
 }
 
 returnOdd([1, 2, 3]); // expects [1,3]

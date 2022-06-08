@@ -3,7 +3,7 @@
  of type number and return the sum of all the arguments
  */
 function sum(?){
-  return 123
+  // put your code here
 }
 console.log(sum(1,2,3)) // expects 6
 console.log(sum(1,2,3,4)) // expects 10
