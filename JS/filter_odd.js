@@ -8,4 +8,4 @@ function returnOdd(arr) {
 }
 
 returnOdd([1, 2, 3]); // expected [1,3]
-returnOdd([1, 2, 3, 4, 5]); // expected [1,3, 5]
+returnOdd([1, 2, 3, 4, 5]); // expected [1,3,5]
